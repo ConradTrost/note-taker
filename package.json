@@ -1,0 +1,26 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retro1967/note-taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/retro1967/note-taker/issues"
+  },
+  "homepage": "https://github.com/retro1967/note-taker#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
