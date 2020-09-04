@@ -1,25 +1,23 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Note Taker",
   "main": "server.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
   },
+  "keywords": [],
   "author": "Conrad Trost",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
-    "jest": "^26.0.1",
-    "node": "^14.2.0",
-    "util": "^0.12.3"
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/retro1967/note-taker.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jpd61/retro1967/issues"
-  },
-  "homepage": "https://github.com/retro1967/note-taker#readme"
+    "url": "https://github.com/retro1967/note-taker"
+  }
 }
