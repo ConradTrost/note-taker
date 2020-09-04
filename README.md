@@ -9,7 +9,9 @@
   ## Description
   #### Take notes and have them persist using JSON database storage. Runs on Express.
 
-  <img src="./note_taker.png" width: "900px" />
+  <p align="center">
+  <img src="./note_taker.png" width="900" title="Screenshot of Note Taker">
+  </p>
 
   ### Table of Contents:
 
